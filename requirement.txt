@@ -1,5 +1,5 @@
 streamlit>=1.32.0
-phi>=0.4.0
+phidata
 google-generativeai>=0.4.1
 python-dotenv>=1.0.1
 duckduckgo-search>=4.5
